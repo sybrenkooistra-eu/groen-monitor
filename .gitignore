@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+debug_nieuws.txt
+.DS_Store
+rapport_test.html
